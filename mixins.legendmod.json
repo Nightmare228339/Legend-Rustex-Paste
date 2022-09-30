@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.7.11",
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.cookie.legendmod.mixin",
+  "refmap": "mixins.legendmod.refmap.json",
+  "mixins": [
+    "MixinC00Handshake",
+    "MixinNetHandlerPlayClient",
+    "MixinNetworkManager"
+  ],
+  "client": [
+  ],
+  "server": []
+}

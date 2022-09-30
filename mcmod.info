@@ -1,0 +1,16 @@
+[
+{
+  "modid": "legend",
+  "name": "Legend Client",
+  "description": "a Minecraft FPS mod",
+  "version": "0.7.5",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sanchez23611#1415"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
